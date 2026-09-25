@@ -1,5 +1,7 @@
 # Collaboration Demo Project
 
+**Repository:** https://github.com/arminedjlal-eng/collaboration-demo
+
 ![Simple CI](https://github.com/arminedjlal-eng/collaboration-demo/actions/workflows/ci.yml/badge.svg)
 
 A demo project for practicing the complete Git and GitHub collaboration workflow.
