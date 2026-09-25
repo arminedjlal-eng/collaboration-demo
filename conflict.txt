@@ -1,2 +1,0 @@
-Line from Branch A
-Line from Branch B
